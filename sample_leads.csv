@@ -1,0 +1,16 @@
+first_name,last_name,email,phone,company,title
+John,Smith,john.smith@acme.com,+1-555-123-4567,Acme Corporation,VP Sales
+Sarah,Johnson,sarah@techcorp.io,555-987-6543,TechCorp Inc,CEO
+Michael,Brown,michael.brown@gmail.com,+1-202-555-0173,Global Solutions LLC,Sales Manager
+Emily,Wilson,emily.test@fake.com,,DataFlow Systems,Product Lead
+Robert,Miller,noreply@example.com,555-555-5555,Enterprise Corp,Director
+Jessica,Garcia,jessica.garcia@startup.io,+1-415-555-0198,Startup Ventures,Founder
+David,Martinez,david@tempmail.com,,FinanceFlow Ltd,Finance Director
+Lisa,Anderson,lisa.a@company.net,+1-310-555-0147,Creative Agency,Marketing Manager
+James,Taylor,james.taylor@acme.com,+1-555-123-4567,Acme Corporation,Manager
+Patricia,Thompson,patricia@company.net,+1-310-555-0147,CloudTech Inc,Senior Manager
+William,White,william.white@invest.com,+1-702-555-0180,Investment Partners,VP Business Development
+Jennifer,Harris,jennifer@yahoo.com,,Tech Startup Co,Analyst
+Christopher,Clark,christopher.clark@supply.com,+1-562-555-0143,,Manager
+Karen,Lewis,karen@unknown.fake,9999999999,Unknown Corp,Unknown
+Matthew,Lee,matthew.lee@venture.com,+1-206-555-0173,Venture Capital,CTO
